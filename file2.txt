@@ -1,1 +1,2 @@
 featured1 added
+Bug fixed
